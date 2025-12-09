@@ -6,7 +6,7 @@
 ### 🧬 Research Philosophy: From Method to Mechanism
 My methodological work is driven by a fundamental fascination with the **Genotype-to-Phenotype map** and the underlying mechanisms thereof.
 
-I believe that biological complexity — from evolutionary adaptation to disease progression — cannot be understood without rigorous statistical inference. I develop novel computational frameworks not just for the sake of methodology, but to accurately disentangle true biological signals from technical noise in high-dimensional data.
+Biological complexity — from evolutionary adaptation to disease progression — cannot be understood without rigorous statistical inference. I develop novel computational frameworks not just for the sake of methodology, but to accurately disentangle true biological signals from technical noise in high-dimensional data.
 
 My goal is to build tools and methods to answer complex questions in **cancer biology**, **mental health**, and **evolutionary genomics**.
 
