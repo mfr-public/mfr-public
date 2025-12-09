@@ -1,7 +1,7 @@
 ### Dr. Mark F. Richardson | Senior Computational Biologist / Bioinformatician
 
 **PhD in Genomics & Bioinformatics**
-*Specializing in Statistical Machine Learning, Compositional Data Analysis (CoDa), and Single-Cell Methodology.*
+*Specializing in Statistical Machine Learning, Compositional Data Analysis (CoDa), and Single-Cell and Multi-omics Methodology.*
 
 ---
 
@@ -15,9 +15,9 @@
 ---
 
 ### 🔭 Current Research & Development
-I am currently focusing on robust statistical frameworks for high-dimensional, sparse biological data:
+I am currently focusing my methodological research on robust statistical frameworks for high-dimensional, sparse biological data:
 
-*   **[dyprop]:** *("Dynamic Proportionality")* – A novel framework extending CoDa principles to **Single-Cell RNA-seq**, specifically for trajectory inference and dynamic time-series analysis in sparse datasets.
+*   **[dyprop]:** *("Dynamic Proportionality")* – A novel framework extending CoDa principles to **scRNA-seq**, specifically for trajectory inference and dynamic time-series analysis in sparse datasets.
 *   **[dotR]:** – Implementing **Minimum Distance Estimation (MDE)** and 3D regularization algorithms for robust statistical inference.
 *   **[propr]:** – (Co-Creator) A standard framework for Compositional Data Analysis in omics.
 
