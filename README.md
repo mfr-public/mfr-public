@@ -1,5 +1,6 @@
 ### Dr. Mark F. Richardson | Senior Computational Biologist / Bioinformatician
 
+<!--
 ### Current Research & Development
 I am currently focusing my methodological research on robust statistical frameworks for high-dimensional, sparse biological data:
 
@@ -12,3 +13,4 @@ I am currently focusing my methodological research on robust statistical framewo
 *   **Workflow:** Nextflow, Snakemake, Docker/Singularity
 *   **Infrastructure:** HPC (Slurm/PBS), AWS, Azure
 *   **Focus:** Reproducibility, Unit Testing, Validated Pipelines (GxP)
+-->
